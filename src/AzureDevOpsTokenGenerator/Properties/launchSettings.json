@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "AzureDevOpsInteractiveLogin": {
+    "AzureDevOpsTokenGenerator": {
       "commandName": "Project",
       "commandLineArgs": "--organization litra"
     }

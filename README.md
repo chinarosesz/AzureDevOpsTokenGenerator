@@ -2,7 +2,6 @@
 Generates a bearer token by connecting to an Azure DevOps 
 organization/account.
 
-# Current Support
 Supports domain joined account for Microsoft tenant. Will
 extend support to other tenants over time. 
 

@@ -9,5 +9,6 @@ Supports generating a bearer token based on current logged
 in domain joined account.
 
 # How to use
-Run <code>AzureDevOpsTokenGenerator.exe /?</code> to get
+1. Install tool at https://www.nuget.org/packages/AzureDevOpsTokenGenerator/
+1. Run <code>AzureDevOpsTokenGenerator.exe /?</code> to get
 help menu.
